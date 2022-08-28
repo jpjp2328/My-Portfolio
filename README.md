@@ -83,11 +83,25 @@ THEN I am presented with a responsive layout that adapts to my viewport
 - Added hover effect changing colors and underline appearing like navbar
 
 ## Media Query (making it responsive)
+- Used DevTools to test dimensions responsive of the site
+- Identified the dimensions which would make the site conjested and overlapped
+- @1280px - made coming soon images stack ontop of each other, sizes for work samples adjusted
+- @1030px - Contact me sizes changed, about me image and text size readjusted
+- @832px - navbar adjusted, about me image/text further readjusted
+- @685px - main work sample image further adjusted, about me section stacked instead of side to side, font size changed
+- @400px - heading centered, all font/images resized, work samples cards further resized
 
 ## Future Improvements Ideas/Plans
 - Icons in the Contact me Section
 - A fill out contact me form under Contact me
 - More Styling elements e.g different background colors/images for different sections
+- Resposivity can still be improved
+- Clean code up, group styling elements colours, transition, sizes etc
+
+## Final Product
+
+- Screenshot
+- Link: 
 
 
 
