@@ -100,8 +100,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Final Product
 
-- Screenshot
-- Link: 
+![](assets/images/screenshot.png)
+
+- Link: https://jpjp2328.github.io/My-Portfolio
 
 
 
