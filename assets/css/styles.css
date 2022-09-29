@@ -192,8 +192,9 @@ article .work-content{
     display:flex;
     height: 460px;
     min-height: 250px;
-    width: 100%;
+    width: 99%;
     object-fit: cover;
+
 }
 
 .work-content .coming-soon{
@@ -216,7 +217,7 @@ article .work-content{
     text-align: left;
     font-size: 20px;
     font-weight: 400;
-    color: white;
+    color: black;
 }
 
 
